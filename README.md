@@ -1,3 +1,5 @@
+Educacional purpose only, development on Fatec Rio Preto
+
 # financial_app
 
 A new Flutter application.
